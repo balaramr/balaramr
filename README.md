@@ -4,15 +4,17 @@
 
 # Hi there, I'm Bala 👋🏻
 
-- 🔭 I'm Hybrid Cloud Infrastructure Architect, DevOps Engineer, Linux Administrator
-- 🚀 I'm specialize in AWS, GCP with over 5 years experience of AWS design and implementation
-- 📲 Reach out to me for Consultancy regarding AWS and HashiCorp.
-- 🤝🏻 I am passionate about my work and always eager to connect with other experts.
+- 👋 Hybrid Cloud Architect | DevOps | Linux Admin
+- 🔭 Passionate about cloud infrastructure and DevOps
+- 🚀 Specializing in AWS & GCP | 5+ Years Experience
+- 💼 AWS Design & Implementation | HashiCorp Expert
+- 📩 Consult with me for AWS & HashiCorp insights
+- 🤝 Eager to connect with fellow experts!
+
+## 🗒 Blogs I've written few blogs
+#### [CloudGyaan | DevOps Linux Blog | AWS, Azure, GCP, Teraform, Kubernates, Docker, Terraform ] https://cloudgyaan.blogspot.com
 
 <br>
-
-## 🗒 Blogs I've written
-- [Tech Blogs] https://cloudgyaan.blogspot.com
 
 <h2>Techology Stack and Experience 💻</h2>
 <p>
@@ -32,9 +34,13 @@
   <img alt="kubernetes"src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=Kubernetes&logoColor=white" width="130" height="30"/>
 </p>
 
+<br>
+
+
 ## Vibing to
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DX4UtSsGT1Sbe)
 
+<br>
 
 ## **Connect with Me On Social Media** 🤝🏻 &nbsp;
 
