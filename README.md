@@ -1,7 +1,7 @@
 # Hi, I'm Bala 👋🏻
 
 - 🔭 I'm Hybrid Cloud Infrastructure Architect, DevOps Engineer, Linux Administrator
-- 🚀 I also specialize in AWS, GCP with over 5 years experience of AWS design and implementation
+- 🚀 I'm specialize in AWS, GCP with over 5 years experience of AWS design and implementation
 - 📲 Reach out to me for Consultancy regarding AWS and HashiCorp.
 - 🤝🏻 I am passionate about my work and always eager to connect with other experts.
 
