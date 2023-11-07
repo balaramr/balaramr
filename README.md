@@ -1,7 +1,8 @@
-# Hi, I'm Bala 👋🏻
+
 
 ![image](https://github.com/balaramr/balaramr/assets/8745986/02df6647-d967-4291-81a6-dae577fd0e61)
 
+# Hi there, I'm Bala 👋🏻
 
 - 🔭 I'm Hybrid Cloud Infrastructure Architect, DevOps Engineer, Linux Administrator
 - 🚀 I'm specialize in AWS, GCP with over 5 years experience of AWS design and implementation
@@ -10,7 +11,7 @@
 
 <br>
 
-### 🗒 Blogs I've written
+## 🗒 Blogs I've written
 - [Tech Blogs] https://cloudgyaan.blogspot.com
 
 <h2>Techology Stack and Experience 💻</h2>
@@ -33,12 +34,16 @@
   <img alt="Windows" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" width="100" height="30" />
 </p>
 
+## Vibing to
+[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DX4UtSsGT1Sbe)
+
+
 ## **Connect with Me On Social Media** 🤝🏻 &nbsp;
 
-<h3 align="left">
-<a href="https://www.linkedin.com/in/balaram-r/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-<a href="https://twitter.com/tweet4bala" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
-<a href="https://www.youtube.com/user/balaramr" target="_blank"><img src="https://img.icons8.com/color/344/youtube-play.png" alt="youtube" width="100" height="100"/></a>
-<a href="https://www.instagram.com/cloudpro100days" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram" width="100" height="100"/></a>
-
+<h2 align="left">
+<a href="https://www.linkedin.com/in/balaram-r/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="50" height="50"/></a>
+<a href="https://twitter.com/tweet4bala" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter" width="50" height="50"/></a>
+<a href="https://www.youtube.com/user/balaramr" target="_blank"><img src="https://img.icons8.com/color/344/youtube-play.png" alt="youtube" width="50" height="50"/></a>
+<a href="https://www.instagram.com/cloudpro100days" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram" width="50" height="50"/></a>
+</h2>  
 <br>
