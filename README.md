@@ -7,8 +7,10 @@
 
 <br>
 
-<h2>Techology Stack and Experience 💻</h2>
+### 🗒 Blogs I've written
+- [Tech Blogs] https://cloudgyaan.blogspot.com
 
+<h2>Techology Stack and Experience 💻</h2>
 <p>
   <img alt="terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" width="110" height="30" />
   <img alt="vault" src="https://img.shields.io/badge/Vault-FFD814?style=for-the-badge&logo=Vault&logoColor=black" width="80" height="30" />
