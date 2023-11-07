@@ -7,7 +7,6 @@
 
 <br>
 
-
 <h2>Techology Stack and Experience 💻</h2>
 
 <p>
