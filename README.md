@@ -34,5 +34,6 @@
 <a href="https://www.linkedin.com/in/balaram-r/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://twitter.com/tweet4bala" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
 <a href="https://www.youtube.com/user/balaramr" target="_blank"><img src="https://img.icons8.com/color/344/youtube-play.png" alt="youtube" width="100" height="100"/></a>
+<a href="https://www.instagram.com/cloudpro100days" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram" width="100" height="100"/></a>
 
 <br>
